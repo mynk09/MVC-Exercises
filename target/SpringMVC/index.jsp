@@ -1,9 +1,8 @@
 <html>
 <body>
-<p> Welcome to Stackroute </p>
 <form action="welcome">
-    Name: <input type="text" name="name">
-    Id: <input type="text" name="id">
+    <input type="text" name="userName" placeholder="Username">
+    <input type="password" name="userPassword" placeholder="Password">
     <input type="submit">
 </form>
 </body>

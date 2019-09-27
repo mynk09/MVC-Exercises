@@ -1,2 +1,4 @@
+com/stackroute/StackRouteConfig.class
 com/stackroute/User.class
 com/stackroute/UserController.class
+com/stackroute/WebInitializer.class
